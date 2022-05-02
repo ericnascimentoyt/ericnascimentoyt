@@ -3,11 +3,11 @@
 
 - 🔥 Systems Analyst & IT Support & E-commerce Manager
 
-- 🌱 I’m currently learning **REACT, SQL, VTEX IO**
+- 🌱 I’m currently learning **HTML, SQL, PLATAFORMA VTEX**
 
-- 🔭 I’m currently working on [Lojas Eletromóveis](https://www.lojaseletromoveis.com.br)
+- 🔭 I’m currently working on [Avanti E-commerce & Marketing Digital](https://penseavanti.com.br/ecommerce/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Vtex, Winthor**
+- 💬 Ask me about **JavaScript, HTML, CSS, Vtex IO, API Rest**
 
 - ⚡ Fun fact **Oneye 😜**
 
