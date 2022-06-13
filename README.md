@@ -4,11 +4,11 @@
 
 - 🔥 Systems Analyst & IT Support & E-commerce Manager
 
-- 🌱 I’m currently learning **HTML, SQL, PLATAFORMA VTEX**
+- 🌱 I’m currently learning **API Rest, HTML, CSS, SQL, PLATAFORMA VTEX**
 
 - 🔭 I’m currently working on [Avanti E-commerce & Marketing Digital](https://penseavanti.com.br/ecommerce/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Vtex IO, API Rest**
+- 💬 Ask me about **JavaScript, Node.js, TypeScript, Graphql, React**
 
 - ⚡ Fun fact **Oneye 😜**
 
