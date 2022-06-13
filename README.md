@@ -1,4 +1,4 @@
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Eric Nascimento</h1>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericnascimento4k&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Systems Analyst & IT Support & E-commerce Manager
