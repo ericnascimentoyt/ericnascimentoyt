@@ -4,11 +4,11 @@
 
 - 🔥 Integration Consultant | Vtex Specialist | Avanti Pro | Systems Analyst & IT Support & E-commerce Manager
 
-- 🌱 I’m currently learning **API Rest, HTML, CSS, SQL, PLATAFORMA VTEX**
+- 🌱 I’m currently learning **Node.js**
 
 - 🔭 I’m currently working on [Avanti E-commerce & Marketing Digital](https://penseavanti.com.br/ecommerce/)
 
-- 💬 Ask me about **JavaScript, Node.js, TypeScript, Graphql, React**
+- 💬 Ask me about **Html, Css, Vtex IO, API Rest**
 
 - ⚡ Fun fact **Oneye 😜**
 
