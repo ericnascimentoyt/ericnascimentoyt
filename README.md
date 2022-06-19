@@ -2,7 +2,7 @@
         width="30px">, I'm Eric Nascimento</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericnascimento4k&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Systems Analyst & IT Support & E-commerce Manager
+- 🔥 Integration Consultant | Vtex Specialist | Avanti Pro | Systems Analyst & IT Support & E-commerce Manager
 
 - 🌱 I’m currently learning **API Rest, HTML, CSS, SQL, PLATAFORMA VTEX**
 
