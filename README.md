@@ -4,7 +4,7 @@
 
 - 🔥 Integration Consultant | Vtex Specialist | Avanti Pro | Systems Analyst & IT Support & E-commerce Manager
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **JavaScript & Python**
 
 - 🔭 I’m currently working on [Avanti E-commerce & Marketing Digital](https://penseavanti.com.br/ecommerce/)
 
