@@ -31,7 +31,7 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ericnascimentoyt&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericnascimentoyt&layout=compact&theme=vision-friendly-dark" alt="ericnascimento4k's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericnascimentoyt&layout=compact&theme=vision-friendly-dark" alt="ericnascimentoyt's most languages"/>
 </p>
 
 <br><br>
