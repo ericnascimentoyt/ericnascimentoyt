@@ -4,7 +4,7 @@
 
 - 🔥 Integration Consultant | Vtex Specialist | Avanti Pro | Systems Analyst & IT Support & E-commerce Manager
 
-- 🌱 I’m currently learning **JavaScript & Python**
+- 🌱 I’m currently learning **Front-end (Html, css e JS) & Python**
 
 - 🔭 I’m currently working on [Avanti E-commerce & Marketing Digital](https://penseavanti.com.br/ecommerce/)
 
@@ -27,6 +27,13 @@
 
 <br><br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ericnascimentoyt&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
+<br>
+
+![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 👨🏽 &nbsp;Social Links
 
 <p align="left" style="background:blue">
@@ -39,7 +46,7 @@
 </p>
 
 <!--
-**ericnascimento4k/ericnascimento4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ericnascimentoyt/ericnascimentoyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
