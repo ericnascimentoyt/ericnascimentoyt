@@ -2,7 +2,7 @@
         width="30px">, I'm Eric Nascimento</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericnascimento4k&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Integration Consultant | Vtex Specialist | Avanti Pro | Systems Analyst & IT Support & E-commerce Manager
+- 🔥 Integration Consultant | Vtex Implementation Certificate | Systems Analyst & IT Support & E-commerce Manager
 
 - 🌱 I’m currently learning **Front-end (Html, css e JS) & Python**
 
@@ -24,14 +24,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<br><br>
-
-# 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=ericnascimentoyt&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ericnascimentoyt&theme=prussian&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ericnascimentoyt&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
 
 
