@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Avanti E-commerce & Marketing Digital](https://penseavanti.com.br/ecommerce/)
 
-- 💬 Ask me about **Front-end**
+- 💬 Ask me about **Vtex e Front-end**
 
 - ⚡ Fun fact **Oneye 😜**
 
