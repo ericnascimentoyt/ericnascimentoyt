@@ -4,7 +4,7 @@
 
 - 🔥 Integration Consultant | Vtex Implementation Certificate | Systems Analyst & IT Support & E-commerce Manager
 
-- 🌱 I’m currently learning **Front-end (Html, css e JS) & Python**
+- 🌱 I’m currently learning **Front-end > Html5, Css3 e JavaSript**
 
 - 🔭 I’m currently working on [Avanti E-commerce & Marketing Digital](https://penseavanti.com.br/ecommerce/)
 
