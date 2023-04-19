@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Plataforma Vtex, Winthor - Totvs e Front-end**
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ "I'm a big believer in luck, and I've found that the harder I work, the luckier I get." ( Thomas Jefferson )
 
 <br><br>
 
