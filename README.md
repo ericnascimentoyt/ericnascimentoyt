@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Avanti E-commerce & Marketing Digital](https://penseavanti.com.br/ecommerce/)
 
-- 💬 Ask me about **Plataforma Vtex, Winthor - Totvs e Front-end**
+- 💬 Ask me about **DB, Vtex, Totvs e Front-end**
 
 - ⚡ "I'm a big believer in luck, and I've found that the harder I work, the luckier I get." ( Thomas Jefferson )
 
