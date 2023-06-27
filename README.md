@@ -11,7 +11,7 @@
 
 - ⚡ "I'm a big believer in luck, and I've found that the harder I work, the luckier I get." ( Thomas Jefferson )
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -23,7 +23,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
 
-
+<br>
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericnascimentoyt&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ericnascimentoyt&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<br>
 ## 👨🏽 &nbsp;Social Links
 
 <p align="left" style="background:blue">
