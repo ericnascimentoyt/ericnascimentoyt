@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Front-end > Html5, Css3 e JavaSript**
 
-- 🔭 I’m currently working on [Avanti E-commerce & Marketing Digital](https://penseavanti.com.br/ecommerce/)
+<!-- - 🔭 I’m currently working on [Avanti E-commerce & Marketing Digital](https://penseavanti.com.br/ecommerce/) -->
 
 - 💬 Ask me about **DB, Vtex, Totvs e Front-end**
 
