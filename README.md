@@ -1,9 +1,9 @@
 <h1 align="left">Hi dear 👋, I'm Eric Nascimento</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericnascimento4k&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Solutions Architect | Sales Engineer | Educator | Vtex Implementation Certificat | Digital commerce expert | SQL | Python | Marketing digital | Software Developer Web
+- 🔥 Solutions Architect | Dev | Educator | Vtex Implementation Certificat | Digital commerce expert | SQL | Python | Marketing digital | Software Developer Web
 
-- 🌱 I’m currently learning **Front-end > Html5, Css3 e JavaSript**
+- 🌱 I’m currently learning **Front-end & Back-end*
 
 <!-- - 🔭 I’m currently working on [Avanti E-commerce & Marketing Digital](https://penseavanti.com.br/ecommerce/) -->
 
