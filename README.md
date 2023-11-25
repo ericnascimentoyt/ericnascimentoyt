@@ -3,7 +3,7 @@
 
 - 🔥 Solutions Architect | Dev | Educator | Vtex Implementation Certificat | Digital commerce expert | SQL | Python | Marketing digital | Software Developer Web
 
-- 🌱 I’m currently learning **Front-end & Back-end*
+- 🌱 I’m currently learning *Front-end & Back-end*
 
 <!-- - 🔭 I’m currently working on [Avanti E-commerce & Marketing Digital](https://penseavanti.com.br/ecommerce/) -->
 
