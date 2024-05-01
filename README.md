@@ -1,13 +1,13 @@
 <h1 align="left">Hi dear 👋, I'm Eric Nascimento</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericnascimento4k&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Solutions Architect | Dev | Educator | Vtex Implementation Certificat | Digital commerce expert | SQL | Python | Marketing digital | Software Developer Web
+- 🔥 Solutions Architect | Educator | Vtex Implementation Certificat
 
 - 🌱 I’m currently learning *Front-end & Back-end*
 
 <!-- - 🔭 I’m currently working on [Avanti E-commerce & Marketing Digital](https://penseavanti.com.br/ecommerce/) -->
 
-- 💬 Ask me about **DB, Vtex, Totvs e Front-end**
+- 💬 Ask me about **Ecommerce**
 
 - ⚡ "I'm a big believer in luck, and I've found that the harder I work, the luckier I get." ( Thomas Jefferson )
 
