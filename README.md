@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *Front-end & Back-end*
 
-<!-- - 🔭 I’m currently working on [Avanti E-commerce & Marketing Digital](https://penseavanti.com.br/ecommerce/) -->
+- 🔭 I’m currently working at [Maeztra, a Cadastra Company](https://maeztra.com/)
 
 - 💬 Ask me about **Ecommerce**
 
