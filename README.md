@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *Front-end & Back-end*
 
-- 🔭 I’m currently working at [Maeztra, a Cadastra Company](https://maeztra.com/)
+- 🔭 I’m currently working at <a href=”https://maeztra.com/” target=”_blank”>Maeztra, a Cadastra Company</a>
 
 - 💬 Ask me about **Ecommerce**
 
