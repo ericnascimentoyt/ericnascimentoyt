@@ -1,11 +1,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eric Nascimento</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericnascimento4k&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Solutions Architect | Educator | Vtex Implementation Certificat
+- 🔥 Solutions Architect | Educator | Vtex IO Certificat
 
 - 🌱 I’m currently learning *Front-end & Back-end*
 
-- 🔭 I’m currently working at <a href="https://maeztra.com/" target="_blank">Maeztra, a Cadastra Company</a>
+- 🔭 I’m currently working at <a href="https://cadastra.com/pt-br/cp/commerce" target="_blank">Cadastra</a>
 
 - 💬 Ask me about **Ecommerce**
 
